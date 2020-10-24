@@ -1,0 +1,35 @@
+{
+  "name": "snow-race-local.github.io",
+  "short_name": "snow-race-local.github.io",
+  "description": "snow-race-local.github.io",
+  "start_url": "https://snow-race-local.github.io/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "Russian",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "app_name": "snow-race-local.github.io",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}
